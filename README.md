@@ -1,11 +1,5 @@
 # Tyra Documentation
 
-Certainly, here's the documentation for the Tyra game development environment:
-
-Sure, here's the modified Tyra documentation with the "TyraCraftGame" replaced with "Example":
-
-# Tyra Documentation
-
 ## Introduction to Tyra
 
 In this tutorial, you will learn how to get started with Tyra. We will cover:
